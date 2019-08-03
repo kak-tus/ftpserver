@@ -1,2 +1,3 @@
 # ftpserver
-Docker image for fclairamb/ftpserver
+
+Docker image for fclairamb/ftpserver with configurable user.
